@@ -1,0 +1,11 @@
+# Ignore the data folders. Everyone will download these manually.
+shared-data/
+
+# Ignore Python/Jupyter cache files
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Ignore local IDE files (optional)
+.vscode/
+.idea/
